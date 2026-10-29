@@ -22,7 +22,7 @@ def main():
 						park_car  =  input("Where would you like to park your car? ")
 						
 						
-						print("Car Parked Successfully!", f"Your Car is parked in {account['account_number']}")
+						print("Car Parked Successfully!", f"Your Car is parked in {show_cars}")
 						
 			case "2": 
 						
